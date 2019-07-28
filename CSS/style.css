@@ -1,0 +1,28 @@
+body{
+	font: 25px Arial, sans-serif;
+}
+.navbar{
+	background-color: #B43104;
+}
+.cabeçalho{
+	background-color: #9AFE2E;
+}
+.cabeçalho2{
+	background-color: #F3F781;
+}
+.margem{
+	padding-bottom: 40px;
+}
+.margemr{
+	padding-bottom: 20px;
+}
+.margem-min{
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.rodape{
+	background-color: black;
+	font-size: 10px;
+	color: white;
+}
+
